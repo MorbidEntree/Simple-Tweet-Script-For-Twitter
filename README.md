@@ -10,7 +10,7 @@ This can be used on its own to simply create Tweets, or you can use it to
 Once you do all this you'll be able to go to `http://yourdomain.com/write.php` and create Tweets from there with your own fancy Twitter app
 
 # Problems?
-If you need help getting this going, then you can talk to me on Twitter at https://twitter.com/MorbidEntree
+If you need help getting this going, then you can talk to me on Twitter at [@MorbidEntree](https://twitter.com/MorbidEntree)
 
 If you come across a bug or error, then please submit an issue.
 
